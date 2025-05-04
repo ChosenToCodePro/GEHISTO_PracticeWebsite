@@ -28,6 +28,7 @@
 }
 
 .box{
+    background-color: #361608;
     height: 100px;
     width: 150px;
     border-radius: 10px;
